@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream">#FFF8E8</color>
+    <color name="cream_key">#FFF4D9</color>
+    <color name="cream_border">#D0B16D</color>
+    <color name="blue_key">#557AA3</color>
+    <color name="blue_border">#355673</color>
+    <color name="pink_key">#EA747D</color>
+    <color name="pink_border">#A34E56</color>
+    <color name="clear_bg">#F6D1CE</color>
+    <color name="clear_border">#C98F88</color>
+    <color name="text_main">#4E382D</color>
+    <color name="white">#FFFFFF</color>
+</resources>
